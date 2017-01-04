@@ -20,3 +20,4 @@ Makefile
 /tests/auto/unit/qzip/.pch
 /tests/auto/unit/qzip/debug
 /tests/auto/unit/qzip/release
+/.qmake.stash
