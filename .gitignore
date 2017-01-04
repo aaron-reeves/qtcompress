@@ -21,3 +21,6 @@ Makefile
 /tests/auto/unit/qzip/debug
 /tests/auto/unit/qzip/release
 /.qmake.stash
+/examples/build-zipFileInfo-Desktop_Qt_5_7_1_MinGW_32bit-Debug
+/src/compress/compress.pro.user.3.2-pre1
+/src/compress/compress.pro.user
